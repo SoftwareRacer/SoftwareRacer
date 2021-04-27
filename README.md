@@ -6,8 +6,8 @@
 
 Quick stats to my here presented code:
 Overall lines of code: 51.341
-Overall relevant lines of code: 33.672
-C#: 12.348
+Overall relevant lines of code: 30.672
+C#: 9.348
 Java: 4.012
 Python: 1.309
 JavaScript: 1.535
