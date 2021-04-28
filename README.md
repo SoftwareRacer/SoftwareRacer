@@ -5,8 +5,8 @@
 - 📫 How to reach me: marco.hennermann@hotmail.com
 
 Quick stats to my here presented code:
-Overall lines of code: 52.341
-Overall relevant lines of code: 30.672
+Overall lines of code: 52.841
+Overall relevant lines of code: 30.757
 C#: 9.348
 Java: 4.012
 Python: 1.395
