@@ -9,7 +9,7 @@ Overall lines of code: 52.341
 Overall relevant lines of code: 30.672
 C#: 9.348
 Java: 4.012
-Python: 1.309
+Python: 1.395
 JavaScript: 1.535
 HTML: 237
 CSS: 437
