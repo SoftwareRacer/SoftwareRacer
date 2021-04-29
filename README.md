@@ -7,12 +7,12 @@
 Quick stats to my here presented code:
 Overall lines of code: 52.841
 Overall relevant lines of code: 30.757
-C#: 9.348
-Java: 4.012
-Python: 1.395
+C#: 11.348
+Java: 6.012
+Python: 2.395
 JavaScript: 1.535
-HTML: 237
-CSS: 437
+HTML: 337
+CSS: 537
 PHP: 529
 Swift: 1.089
 Dart: 339
