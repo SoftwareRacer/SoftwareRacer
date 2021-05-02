@@ -5,18 +5,19 @@
 - 📫 How to reach me: marco.hennermann@hotmail.com
 
 Quick stats to my here presented code:
-Overall lines of code: 58.449
-Overall relevant lines of code: 36.365
-C#: 16.348
-Java: 6.620
-Python: 2.395
-JavaScript: 1.535
-HTML: 337
-CSS: 537
-PHP: 529
-Swift: 1.089
-Dart: 339
-C++: 489
+
+Overall lines of code: 58.449,
+Overall relevant lines of code: 36.365, 
+C#: 16.348, 
+Java: 6.620, 
+Python: 2.395, 
+JavaScript: 1.535, 
+HTML: 337, 
+CSS: 537, 
+PHP: 529, 
+Swift: 1.089, 
+Dart: 339, 
+C++: 489, 
 COBOL: 337
 
 
