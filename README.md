@@ -22,6 +22,7 @@ COBOL: 337
 
 
 Projects in development:
+
 World Economy Simulator, 
 Improvements to the Vocab-Trainer, 
 Trading App, 
