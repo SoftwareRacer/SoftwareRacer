@@ -21,10 +21,10 @@ COBOL: 337
 
 
 Projects in development:
-World Economy Simulator
-Improvements to the Vocab-Trainer
-Trading App
-New Flutter App
+World Economy Simulator, 
+Improvements to the Vocab-Trainer, 
+Trading App, 
+New Flutter App, ...
 <!---
 SoftwareRacer/SoftwareRacer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
